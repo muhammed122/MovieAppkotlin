@@ -1,5 +1,8 @@
 # MovieAppkotlin
-movie app using (mvvvm-rxjava-paging-navigation-room))
+movie app using movieDB api
+(mvvvm-rxjava-paging-navigation-room)
+
+
 
 
 
